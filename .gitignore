@@ -330,3 +330,4 @@ thumb
 sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python,django,react
+/music_controller/frontend/static/frontend/main.js
